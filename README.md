@@ -3,7 +3,7 @@ A containerized application packaged with Docker and linked to GitHub Container 
 
 <img width="423" height="238" alt="image" src="https://github.com/user-attachments/assets/12915937-4abe-44c4-ac9d-09a1c8b0efbf" />  <img width="461" height="239" alt="image" src="https://github.com/user-attachments/assets/8c971280-36a1-47db-8b7b-8b019df3bdb6" />
 
-<img width="428" height="228" alt="image" src="https://github.com/user-attachments/assets/ec9a3e8c-5420-42a5-936b-36f19d0e25ff" />
+<img width="344" height="206" alt="image" src="https://github.com/user-attachments/assets/3a89f4a9-67cc-4bc5-8852-bfc5e46ce162" />
 <img width="344" height="202" alt="image" src="https://github.com/user-attachments/assets/9dfe2192-5287-413e-b0f1-37fb60b31cb2" />
 
 <img width="370" height="230" alt="image" src="https://github.com/user-attachments/assets/99090f65-8fb5-492d-b02e-d4c7c0534e66" />
