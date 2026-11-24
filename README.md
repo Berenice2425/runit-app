@@ -8,11 +8,9 @@ A containerized application packaged with Docker and linked to GitHub Container 
 <img width="344" height="202" alt="image" src="https://github.com/user-attachments/assets/9dfe2192-5287-413e-b0f1-37fb60b31cb2" />
 
 <img width="370" height="230" alt="image" src="https://github.com/user-attachments/assets/99090f65-8fb5-492d-b02e-d4c7c0534e66" />
-<img width="461" height="254" alt="image" src="https://github.com/user-attachments/assets/2acf5e40-d133-461e-83f5-0cd94daead52" />
-
 <img width="449" height="185" alt="image" src="https://github.com/user-attachments/assets/bd17b5e1-c018-4e9f-b70a-c14793c32f4d" />
-<img width="450" height="107" alt="image" src="https://github.com/user-attachments/assets/8020a0be-70d8-4393-81e1-1478427b435d" />
 
+<img width="450" height="107" alt="image" src="https://github.com/user-attachments/assets/8020a0be-70d8-4393-81e1-1478427b435d" />
 <img width="440" height="173" alt="image" src="https://github.com/user-attachments/assets/ac51a365-64db-4b07-8213-59c47b80df89" />
 <img width="451" height="230" alt="image" src="https://github.com/user-attachments/assets/ba1d2fab-e12e-4637-92c1-76be547a2085" />
 
