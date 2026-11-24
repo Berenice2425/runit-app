@@ -4,7 +4,7 @@
 A small Python web app, containerised with Docker, deployed by a GitHub Actions pipeline, and run with the basics of reliability engineering.
 
 ## Live app
-https://YOUR-APP-URL
+https://github.com/Berenice2425/runit-app
 
 ## Architecture
 GitHub push → GitHub Actions (build image, push to GitHub Container Registry, deploy) → Azure Container Apps (or Render) → users.
