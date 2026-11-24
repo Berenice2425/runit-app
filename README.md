@@ -1,7 +1,8 @@
 # runit-app
 A containerized application packaged with Docker and linked to GitHub Container Registry (`ghcr.io`) using Open Container Initiative (OCI) metadata labels.
 
-<img width="423" height="238" alt="image" src="https://github.com/user-attachments/assets/12915937-4abe-44c4-ac9d-09a1c8b0efbf" />  <img width="461" height="239" alt="image" src="https://github.com/user-attachments/assets/8c971280-36a1-47db-8b7b-8b019df3bdb6" />
+<img width="423" height="238" alt="image" src="https://github.com/user-attachments/assets/12915937-4abe-44c4-ac9d-09a1c8b0efbf" />  <img width="389" height="233" alt="image" src="https://github.com/user-attachments/assets/eaaf602c-0170-4af2-81a7-77868426a9a3" />
+
 
 <img width="344" height="206" alt="image" src="https://github.com/user-attachments/assets/3a89f4a9-67cc-4bc5-8852-bfc5e46ce162" />
 <img width="344" height="202" alt="image" src="https://github.com/user-attachments/assets/9dfe2192-5287-413e-b0f1-37fb60b31cb2" />
